@@ -1,6 +1,7 @@
 # Python-Sql-Ecommerce-Analysis
 
 Project Overview
+
 This project focuses on analyzing an eCommerce dataset using Python and SQL to extract valuable insights about customer behavior, sales trends, and overall business performance. The analysis is structured into three phases, each with specific goals and queries.
 
 Project Structure
